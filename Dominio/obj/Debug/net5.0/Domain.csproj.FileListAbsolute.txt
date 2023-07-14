@@ -1,0 +1,12 @@
+C:\projetos\Desafio\WebApi\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\projetos\Desafio\WebApi\Domain\bin\Debug\net5.0\Domain.dll
+C:\projetos\Desafio\WebApi\Domain\bin\Debug\net5.0\Domain.pdb
+C:\projetos\Desafio\WebApi\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\projetos\Desafio\WebApi\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Desafio\WebApi\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\projetos\Desafio\WebApi\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\projetos\Desafio\WebApi\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\projetos\Desafio\WebApi\Domain\obj\Debug\net5.0\Domain.dll
+C:\projetos\Desafio\WebApi\Domain\obj\Debug\net5.0\refint\Domain.dll
+C:\projetos\Desafio\WebApi\Domain\obj\Debug\net5.0\Domain.pdb
+C:\projetos\Desafio\WebApi\Domain\obj\Debug\net5.0\ref\Domain.dll

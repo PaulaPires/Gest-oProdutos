@@ -1,0 +1,15 @@
+C:\projetos\Desafio\WebApi\Entity\bin\Debug\net5.0\Entity.deps.json
+C:\projetos\Desafio\WebApi\Entity\bin\Debug\net5.0\Entity.runtimeconfig.json
+C:\projetos\Desafio\WebApi\Entity\bin\Debug\net5.0\Entity.runtimeconfig.dev.json
+C:\projetos\Desafio\WebApi\Entity\bin\Debug\net5.0\Entity.dll
+C:\projetos\Desafio\WebApi\Entity\bin\Debug\net5.0\Entity.pdb
+C:\projetos\Desafio\WebApi\Entity\obj\Debug\net5.0\Entity.csproj.AssemblyReference.cache
+C:\projetos\Desafio\WebApi\Entity\obj\Debug\net5.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Desafio\WebApi\Entity\obj\Debug\net5.0\Entity.AssemblyInfoInputs.cache
+C:\projetos\Desafio\WebApi\Entity\obj\Debug\net5.0\Entity.AssemblyInfo.cs
+C:\projetos\Desafio\WebApi\Entity\obj\Debug\net5.0\Entity.csproj.CoreCompileInputs.cache
+C:\projetos\Desafio\WebApi\Entity\obj\Debug\net5.0\Entity.dll
+C:\projetos\Desafio\WebApi\Entity\obj\Debug\net5.0\refint\Entity.dll
+C:\projetos\Desafio\WebApi\Entity\obj\Debug\net5.0\Entity.pdb
+C:\projetos\Desafio\WebApi\Entity\obj\Debug\net5.0\Entity.genruntimeconfig.cache
+C:\projetos\Desafio\WebApi\Entity\obj\Debug\net5.0\ref\Entity.dll
