@@ -6198,45 +6198,38 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\desenvolvedor12\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\paula\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projetos\\Desafio\\WebApi\\GestaoProdutos\\GestaoProdutos.csproj",
+      "projectUniqueName": "C:\\projetos\\Desafio\\Desafio\\WebApi\\GestaoProdutos\\GestaoProdutos.csproj",
       "projectName": "GestaoProdutos",
-      "projectPath": "C:\\projetos\\Desafio\\WebApi\\GestaoProdutos\\GestaoProdutos.csproj",
-      "packagesPath": "C:\\Users\\desenvolvedor12\\.nuget\\packages\\",
-      "outputPath": "C:\\projetos\\Desafio\\WebApi\\GestaoProdutos\\obj\\",
+      "projectPath": "C:\\projetos\\Desafio\\Desafio\\WebApi\\GestaoProdutos\\GestaoProdutos.csproj",
+      "packagesPath": "C:\\Users\\paula\\.nuget\\packages\\",
+      "outputPath": "C:\\projetos\\Desafio\\Desafio\\WebApi\\GestaoProdutos\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\desenvolvedor12\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\paula\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\projetos\\Desafio\\WebApi\\Aplicacao\\Aplicacao.csproj": {
-              "projectPath": "C:\\projetos\\Desafio\\WebApi\\Aplicacao\\Aplicacao.csproj"
+            "C:\\projetos\\Desafio\\Desafio\\WebApi\\Aplicacao\\Aplicacao.csproj": {
+              "projectPath": "C:\\projetos\\Desafio\\Desafio\\WebApi\\Aplicacao\\Aplicacao.csproj"
             },
-            "C:\\projetos\\Desafio\\WebApi\\Infraestrutura\\Infraestrutura.csproj": {
-              "projectPath": "C:\\projetos\\Desafio\\WebApi\\Infraestrutura\\Infraestrutura.csproj"
+            "C:\\projetos\\Desafio\\Desafio\\WebApi\\Infraestrutura\\Infraestrutura.csproj": {
+              "projectPath": "C:\\projetos\\Desafio\\Desafio\\WebApi\\Infraestrutura\\Infraestrutura.csproj"
             }
           }
         }
@@ -6293,8 +6286,20 @@
         "warn": true,
         "downloadDependencies": [
           {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
             "name": "Microsoft.NETCore.App.Host.win-x64",
             "version": "[5.0.17, 5.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
           }
         ],
         "frameworkReferences": {
@@ -6305,7 +6310,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
